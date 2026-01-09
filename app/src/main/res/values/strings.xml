@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MimoChallenge</string>
+    <string name="lesson_input_label">Complete the code</string>
+    <string name="lesson_button_next">Next</string>
+    <string name="lesson_error_message">Incorrect!</string>
+    <string name="lesson_done">Done</string>
+</resources>
